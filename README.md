@@ -1,4 +1,4 @@
-# A simple Image Encryption project using JAVA.
+# A simple Image Encryption/ Decryption project using JAVA.
 ## Here is the first look of this project :-
 ![Screenshot 2024-10-19 200338](https://github.com/user-attachments/assets/2b9ed22c-1d33-485f-8790-ee00e5b01c8b)
 ## First you enter your Encryption key then you click open Image button.
